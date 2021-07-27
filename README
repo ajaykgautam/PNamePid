@@ -1,0 +1,6 @@
+##It creates pIDpName executable after running below
+make
+##execute binary to printout the pid with name of associated Process name:
+./pIDpName
+##clean the executable as running below command:
+make clean
